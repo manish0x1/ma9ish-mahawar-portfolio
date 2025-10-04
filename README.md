@@ -10,7 +10,7 @@ A responsive developer portfolio built using the MERN Stack (MongoDB, Express.js
 - **Frontend**: React.js, Tailwind CSS, Shadcn UI  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB (Mongoose)  
-- **Deployment**: Vercel / Render / Netlify *(choose your actual platform)*
+- **Deployment**: Netlify
 
 ## ✨ Features
 
@@ -19,6 +19,10 @@ A responsive developer portfolio built using the MERN Stack (MongoDB, Express.js
 - Responsive design for all devices  
 - Dark/light mode toggle  
 - SEO-friendly routing
+
+## 🔗 Live Demo
+
+Check out the live portfolio: [ma9ish-portfolio.netlify.app](https://ma9ish-portfolio.netlify.app/)
 
 ## 🚀 Getting Started
 
@@ -41,4 +45,9 @@ npm run dev
 For feedback or collaboration, reach out via the contact form or email listed in the portfolio.
 
 ---
+
+Feel free to fork, customize, and use this as a template for your own portfolio!
+```
+
+Want to add a screenshot preview or badges next to make it pop visually?
 
