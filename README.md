@@ -49,5 +49,6 @@ For feedback or collaboration, reach out via the contact form or email listed in
 Feel free to fork, customize, and use this as a template for your own portfolio!
 ```
 
-Want to add a screenshot preview or badges next to make it pop visually?
+
+
 
