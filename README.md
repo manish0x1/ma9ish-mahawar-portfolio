@@ -44,10 +44,7 @@ npm run dev
 
 For feedback or collaboration, reach out via the contact form or email listed in the portfolio.
 
----
 
-Feel free to fork, customize, and use this as a template for your own portfolio!
-```
 
 
 
